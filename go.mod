@@ -1,4 +1,4 @@
-module github.com/choidamdam/static
+module github.com/choidamdam/gin-static-pkger
 
 require (
 	github.com/elazarl/go-bindata-assetfs v1.0.0
